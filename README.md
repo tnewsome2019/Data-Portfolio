@@ -7,8 +7,8 @@
 * View the project here
 
 **Sales Data Analysis and Visualization in SQL and Tableau**
-* Analyze revenue to a creating customer segmentation analysis using the RFM technique to see who the best customer is. 
-* Built a dashboardin Tableau showing revenue by country, sales by country, and, sales by product line. 
+* Analyze revenue to a creating customer segmentation analysis using the RFM technique. 
+* Built a dashboard in Tableau showing revenue by country, sales by country, and, sales by product line. 
 * View project here
 * View visualization here
 
