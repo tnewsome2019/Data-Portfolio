@@ -10,5 +10,5 @@
 * Analyze revenue to a creating customer segmentation analysis using the RFM technique. 
 * Built a dashboard in Tableau showing revenue by country, sales by country, and, sales by product line. 
 * View project here
-* View visualization here
+* View visualizations [here] (https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_1_16735567885970/SalesDashboard) and [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_2_16735568351520/SalesDashboard2?publish=yes)
 
