@@ -1,4 +1,4 @@
-# Table of Contents
+# Python, SQL, and Tableau Projects
 
 
 **Red Wine Quality Data Analysis and Visualization in Python**
