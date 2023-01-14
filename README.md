@@ -4,7 +4,7 @@
 **Red Wine Quality Data Analysis and Visualization in Python**
 * Analyze physicochemical elements of Vinho Verde red wine samples to see what can affect the overall sensory quality of the wine.
 * Use NumPy, Matplotlib, Pandas, and Seaborn to clean, scale, and visualize data. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/INST414_Final.ipynb](https://github.com/tnewsome2019/Red-Wine-Quality-Data)) ✔
+* View the project [here](https://github.com/tnewsome2019/Red-Wine-Quality-Data) ✔
 
 **Sales Data Analysis and Visualization in SQL and Tableau**
 * Analyze revenue to create a customer segmentation analysis using the RFM technique. 
