@@ -1,5 +1,6 @@
 # Python, SQL, and Tableau Projects
 
+[Tableau Portfolio](https://public.tableau.com/app/profile/trinity3258)
 
 **Red Wine Quality Data Analysis and Visualization in Python**
 * Analyze physicochemical elements of Vinho Verde red wine samples to see what can affect the overall sensory quality of the wine.
