@@ -19,3 +19,7 @@
 * View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/SQL/Cohort_Retention.sql) ✔
 * View visualization [here](https://public.tableau.com/app/profile/trinity3258/viz/CohortRetentionDash_16736624803070/Dashboard1?publish=yes) ✔
 
+**Amazon Web Scraping in Python**
+* Use Requests, CSV, and BeautifulSoup to scrape data from Amazon listing for bubble candles and populate into csv file.
+* Use SMTPlib to send an email when price drops below a certain point. 
+* View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/Amazon_Candle_Web_Scraping.ipynb)✔
