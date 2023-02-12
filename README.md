@@ -14,7 +14,7 @@
 * View visualizations [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_1_16735567885970/SalesDashboard) and [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_2_16735568351520/SalesDashboard2?publish=yes) ✔
 
 **Online Retail Cohort Retention Analysis and Visualization in SQL and Tableau**
-* Time based cohort (group of customers) analysis of online retail data to get a better understanding of behaviors, patterns, and trends. 
+* Time based cohort (group of customers) analysis of UK based online retail data to get a better understanding of behaviors, patterns, and trends. 
 * Built a dashboard in Tableau showing Cohort Retention Rate and Cohort Table. 
 * View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/SQL/Cohort_Retention.sql) ✔
 * View visualization [here](https://public.tableau.com/app/profile/trinity3258/viz/CohortRetentionDash_16736624803070/Dashboard1?publish=yes) ✔
