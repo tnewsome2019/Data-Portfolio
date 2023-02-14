@@ -9,7 +9,7 @@
 
 **Sample Sales Data Analysis and Visualization in SQL and Tableau**
 * Analyze revenue to create a customer segmentation analysis using the RFM technique. 
-* Built a dashboard in Tableau showing core KPIs such as revenue by country, sales by country, and, sales by product line. 
+* Built a dashboard in Tableau showing core KPIs such as revenue by country, sales by country, and sales by product line. 
 * View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/SQL/Sales_Data.sql) ✔
 * View visualizations [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_1_16735567885970/SalesDashboard) and [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_2_16735568351520/SalesDashboard2?publish=yes) ✔
 
