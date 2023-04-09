@@ -24,7 +24,7 @@
 * Use SMTPlib to send an email when price drops below a certain point. 
 * View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/Amazon_Candle_Web_Scraping.ipynb) ✔
 
-**Youtub Web Scraping in Python**
+**Youtube Web Scraping in Python**
 * Use Requests, Google API client, and BeautifulSoup to scrape data from Youtube based on kyewords entred by user input.
 * Use Twilio to text message with the top three titles and links from the specified keywords. 
 * View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/YoutubeWebScraping.ipynb) ✔
