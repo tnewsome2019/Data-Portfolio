@@ -24,7 +24,14 @@
 * Use SMTPlib to send an email when price drops below a certain point. 
 * View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/Amazon_Candle_Web_Scraping.ipynb) ✔
 
+**Bitcamp 2023: Zillow Web Scraping Analysis and Visualization in Python**
+* Use Scrapeak API, Requests, and Sci-Kit Learn to scrape data from Zillow listings, perform exploratory data analysis, and predict price estimate based on listing details and renter desires. 
+* Use JupyterDash to create interactive dashboard of price prediction and findings. 
+* View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/bitcamp.ipynb) ✔
+
 **Youtube Web Scraping in Python**
 * Use Requests, Google API client, and BeautifulSoup to scrape data from Youtube based on kyewords entred by user input.
 * Use Twilio to text message with the top three titles and links from the specified keywords. 
 * View project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/YoutubeWebScraping.ipynb) ✔
+
+
