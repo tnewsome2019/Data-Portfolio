@@ -1,5 +1,5 @@
 # Project Title
-Employee Turnover Prediction Using Machine Learning Models
+Salifort Motors Employee Turnover Prediction Using Machine Learning Models
 
 ## Project Overview
 This project aims to predict employee turnover in a large consulting firm using machine learning models. The analysis utilizes data on employee characteristics, job satisfaction levels, work history, and performance metrics to identify factors contributing to employee turnover and develop predictive models. Random Forest and Gradient Boosting algorithms outperformed the Decision Tree model, achieving accuracies of over 96%. The project provides valuable insights for the HR department to prioritize retention efforts and improve employee satisfaction levels.
