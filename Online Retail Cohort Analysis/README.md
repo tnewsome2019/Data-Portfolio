@@ -25,4 +25,5 @@ This project performs a cohort analysis on online retail data to understand cust
 
 
 ## Visualizations
-![Cohort Retention Chart](./visualizations/Cohort_Retention_Dash.twbx)
+![Dashboard Download](./visualizations/Cohort_Retention_Dash.twbx)
+![Dashboard Link](https://public.tableau.com/app/profile/trinity3258/viz/CohortRetentionDash_16736624803070/Dashboard1?publish=yes)
