@@ -34,5 +34,6 @@ By training predictive models, I aimed to predict wine quality with an accuracy 
 3. Run the scripts in the `scripts` folder to replicate the analysis.
 
 ## Visualizations
-![Wine Quality Correlation](./visualizations/correlation1_rw.png) (./visualizations/correlation2_rw.png)
+![Wine Quality Correlation](./visualizations/correlation1_rw.png) 
+![Wine Quality Correlation](./visualizations/correlation2_rw.png)
 ![Quality Confusion Matrix](./visualizations/confusion_rw.png)
