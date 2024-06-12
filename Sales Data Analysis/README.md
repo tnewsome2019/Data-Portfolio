@@ -33,9 +33,9 @@ Using Tableau, I created interactive dashboards that allow users to explore data
 1. Clone the repository.
 2. Navigate to the `Sales-Data-Analysis` directory.
 3. Execute the SQL scripts in the `sql` folder.
-4. Open Tableau workbooks in the `tableau` folder for interactive exploration.
+4. Open Tableau workbooks in the `visualizations` folder for interactive exploration.
 
 ## Tableau Dashboards
-- [Sales Overview](./visualizations/Sales_Dashboard_1.twbx)
-- [Customer Segmentation](./visualizations/Sales_Dashboard_2.twbx)
+- [Overview 1](./visualizations/Sales_Dashboard_1.twbx)
+- [Overview 2](./visualizations/Sales_Dashboard_2.twbx)
 
