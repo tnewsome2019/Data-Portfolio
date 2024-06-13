@@ -1,4 +1,6 @@
-# Python, SQL, and Tableau Projects
+# Data Portfolio
+
+Welcome to my data portfolio. Here, I showcase my journey as a data analyst through various projects that blend data with insightful storytelling. Each project highlights my skills in SQL, Python, and Tableau, along with my passion for uncovering stories hidden in data.
 
 [Tableau Portfolio](https://public.tableau.com/app/profile/trinity3258)
 
@@ -19,17 +21,7 @@
 * View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/SQL/Cohort_Retention.sql) ✔
 * View visualization [here](https://public.tableau.com/app/profile/trinity3258/viz/CohortRetentionDash_16736624803070/Dashboard1?publish=yes) ✔
 
-**Amazon Web Scraping in Python**
-* Employing Requests, CSV, and BeautifulSoup to scrape data from Amazon listings for bubble candles and exporting it to a CSV file.
-* Using SMTPlib to send an email when the price drops below a certain threshold. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/Amazon_Candle_Web_Scraping.ipynb) ✔
-
 **Bitcamp 2023: Zillow Web Scraping Analysis and Visualization in Python**
 * Utilizing Scrapeak API, Requests, and Sci-Kit Learn to scrape data from Zillow listings, conduct exploratory data analysis, and predict price estimates based on listing details and renter preferences. 
 * Employing JupyterDash to create an interactive dashboard for price predictions and findings. 
 * View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/bitcamp.ipynb) ✔
-
-**Youtube Web Scraping in Python**
-* Using Requests, Google API client, and BeautifulSoup to scrape data from YouTube based on user-entered keywords.
-* Leveraging Twilio to send text messages with the top three video titles and links corresponding to the specified keywords. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/YoutubeWebScraping.ipynb) ✔
