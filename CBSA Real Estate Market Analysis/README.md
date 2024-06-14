@@ -33,6 +33,8 @@ I performed a detailed analysis to identify the factors most strongly associated
 1. Clone the repository.
 2. Navigate to the `CBSA-Real-Estate-Analysis` directory.
 3. Run the SQL scripts in the `sql` folder to set up the database.
+OR
+4. You can view documentation [here](./CBSA.pdf).
 
 
 ## Conclusion
