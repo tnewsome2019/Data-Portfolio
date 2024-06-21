@@ -1,27 +1,42 @@
-# Data Portfolio
+# Trinity Newsome's Data Portfolio
 
-Welcome to my data portfolio. Here, I showcase my journey as a data analyst through various projects that blend data with insightful storytelling. Each project highlights my skills in SQL, Python, and Tableau, along with my passion for uncovering stories hidden in data.
+Welcome to my data analytics portfolio! I am a data science graduate with a strong background in UX/UI design and data analytics. This repository showcases some of my key projects, demonstrating my skills in SQL, Python, Tableau, and machine learning.
 
-[Tableau Portfolio](https://public.tableau.com/app/profile/trinity3258)
+## Table of Contents
+- [Project Highlights](#project-highlights)
+- [Skills](#skills)
+- [Contact Information](#contact-information)
 
-**Red Wine Quality Data Analysis and Visualization in Python**
-* Analyzing the physicochemical elements of Vinho Verde red wine samples to determine their impact on the overall sensory quality of the wine.
-* Utilizing NumPy, Matplotlib, Pandas, and Seaborn to clean, scale, and visualize the data. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/tree/main/Red%20Wine%20Quality%20Analysis) ✔
+## Project Highlights
 
-**Sample Sales Data Analysis and Visualization in SQL and Tableau**
-* Conducting revenue analysis to create a customer segmentation using the RFM technique. 
-* Developing a Tableau dashboard to display core KPIs, including revenue by country, sales by country, and sales by product line. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/tree/main/Sales%20Data%20Analysis) ✔
-* View visualizations [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_1_16735567885970/SalesDashboard) and [here](https://public.tableau.com/app/profile/trinity3258/viz/Sales_Dashboard_2_16735568351520/SalesDashboard2?publish=yes) ✔
+### 1. Salifort Motors Employee Churn Prediction
+- **Objective**: Predict employee turnover and recommend retention strategies.
+- **Tools**: Python, Machine Learning
+- **Outcome**: Achieved 96% accuracy, providing actionable insights for HR.
 
-**Online Retail Cohort Retention Analysis and Visualization in SQL and Tableau**
-* Conducting a time-based cohort (group of customers) analysis of UK-based online retail data to gain insights into behaviors, patterns, and trends. 
-* Creating a Tableau dashboard to visualize Cohort Retention Rate and Cohort Table. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/tree/main/Online%20Retail%20Cohort%20Analysis) ✔
-* View visualization [here](https://public.tableau.com/app/profile/trinity3258/viz/CohortRetentionDash_16736624803070/Dashboard1?publish=yes) ✔
+### 2. UK Online Retail Data Analysis
+- **Objective**: Analyze customer retention and sales trends.
+- **Tools**: SQL, Tableau
+- **Outcome**: Identified a 37% customer retention rate, visualized KPIs in a comprehensive dashboard.
 
-**Bitcamp 2023: Zillow Web Scraping Analysis and Visualization in Python**
-* Utilizing Scrapeak API, Requests, and Sci-Kit Learn to scrape data from Zillow listings, conduct exploratory data analysis, and predict price estimates based on listing details and renter preferences. 
-* Employing JupyterDash to create an interactive dashboard for price predictions and findings. 
-* View the project [here](https://github.com/tnewsome2019/Data-Portfolio/blob/main/Python/bitcamp.ipynb) ✔
+### 3. CBSA Real Estate Analysis
+- **Objective**: Analyze occupancy trends to inform market strategies.
+- **Tools**: Excel, PivotTables
+- **Outcome**: Revealed 80.3% occupancy in top-performing properties.
+
+### 4. Red Wine Quality Prediction
+- **Objective**: Predict wine quality based on chemical properties.
+- **Tools**: Python, Logistic Regression, Random Forest
+- **Outcome**: Achieved 92% accuracy, highlighting key quality factors.
+
+## Skills
+- SQL, Python, R
+- Tableau, Power BI
+- Machine Learning, Statistical Analysis
+- Data Visualization, UX/UI Design
+
+## Contact Information
+- **Email**: tnewsome2019@gmail.com
+- **LinkedIn**: [Trinity Newsome](https://www.linkedin.com/in/trinity-newsome)
+- **GitHub**: [Data Portfolio](https://github.com/tnewsome2019/Data-Portfolio)
+- **Tableau**: [Public Profile](https://public.tableau.com/app/profile/trinity3258)
