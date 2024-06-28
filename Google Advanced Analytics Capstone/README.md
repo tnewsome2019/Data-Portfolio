@@ -31,7 +31,7 @@ I employed Decision Trees, Random Forest, and Gradient Boosting models. Evaluati
 ## Instructions
 1. Clone the repository.
 2. Navigate to the `Salifort-Motors-Employee-Turnover` directory.
-3. Run the Python scripts in the `scripts` folder to preprocess data and train models.
+3. Run the Python scripts to preprocess data and train models.
 4. Explore the results and visualizations in the provided notebooks.
 
 ## Conclusion
