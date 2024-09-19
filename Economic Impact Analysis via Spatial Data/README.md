@@ -76,7 +76,8 @@ This project explores the relationship between economic indicators and geospatia
 
 
 ## Visualizations
-![Correlation Matrix of Economic Indicators](./visualizations/(<Correlation Matrix of Economic Indicators.png>)) 
+![Correlation Matrix of Economic Indicators](![Correlation Matrix of Economic Indicators](https://github.com/user-attachments/assets/a28b1aa6-294c-44f3-8b07-56e30b506619)
+) 
 ![GDP Per Capita by Country](./visualizations/(<GDP Per Capita by Country (1).png>))
 ![Unemployment Rate by Country](./visualizations/(<Unemployment Rate by Country (1).png>))
 ![World Map with Unemployment Rate](./visualizations/(<World Map with Unemployment Rate.png>))
