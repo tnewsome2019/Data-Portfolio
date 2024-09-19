@@ -76,13 +76,16 @@ This project explores the relationship between economic indicators and geospatia
 
 
 ## Visualizations
-![Correlation Matrix of Economic Indicators](![Correlation Matrix of Economic Indicators](https://github.com/user-attachments/assets/a28b1aa6-294c-44f3-8b07-56e30b506619)
-) 
-![GDP Per Capita by Country](./visualizations/(<GDP Per Capita by Country (1).png>))
-![Unemployment Rate by Country](./visualizations/(<Unemployment Rate by Country (1).png>))
-![World Map with Unemployment Rate](./visualizations/(<World Map with Unemployment Rate.png>))
-![World Map with GDP Per Capita](./visualizations/(<World Map with GDP Per Capita.png>))
-![Clustering of Countries Based on Economic Data](./visualizations/(<Clustering of Countries Based on Economic Data.png>))
-![Country Clusters Based on Economic Indicators](./visualizations/(<Country Clusters Based on Economic Indicators.png>))
-![Country Clusters Based on Tourism Factors](./visualizations/(<Country Clusters Based on Tourism Factors.png>))
-![Random Forest Model_ Actual vs. Predicted GDP](./visualizations/(<Random Forest Model_ Actual vs. Predicted GDP.png>))
+![Correlation Matrix of Economic Indicators](https://github.com/user-attachments/assets/a28b1aa6-294c-44f3-8b07-56e30b506619)
+![World Map with GDP Per Capita](https://github.com/user-attachments/assets/7ad8ac02-c477-43b3-9c93-3acb389287ab)
+![World Map with Unemployment Rate](https://github.com/user-attachments/assets/082fb913-12dc-4a63-8155-e3da612148d0)
+![World Map with Tourists in Millions](https://github.com/user-attachments/assets/ad7f9377-2679-4302-863e-6b84b07fdbaa)
+![World Map with Corruption Index](https://github.com/user-attachments/assets/4e7a6018-ab1c-4778-9237-fd1ae5f4215a)
+![Country Clusters Based on Tourism Factors](https://github.com/user-attachments/assets/d87cbdac-a342-43fe-bae0-fdaa6c6b6f1c)
+![Country Clusters Based on Economic Indicators](https://github.com/user-attachments/assets/16724ba0-a153-4281-b455-3b921605f977)
+![Clustering of Countries Based on Economic Data](https://github.com/user-attachments/assets/e1025607-0638-4e78-99a9-5ded7e98a5c0)
+![Unemployment Rate by Country (1)](https://github.com/user-attachments/assets/4d504009-8924-45d5-a930-cb7ebfe7792a)
+![GDP Per Capita by Country (1)](https://github.com/user-attachments/assets/cc6b2715-a783-4837-9f40-09e39de46e9a)
+![Corruption Index by Country (1)](https://github.com/user-attachments/assets/6578886d-787b-4d0e-9b01-322df07daebe)
+
+
