@@ -1,6 +1,6 @@
 # CBSA Real Estate Market Analysis
 
-## The Story
+## Overview
 
 The real estate market is a dynamic and ever-changing landscape. For the CBSA (Core-Based Statistical Areas), understanding market trends is essential for making informed investment decisions and policy formulations. This project delves into the real estate data of various CBSAs, aiming to uncover the trends and factors influencing the market.
 
