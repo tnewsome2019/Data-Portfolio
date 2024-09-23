@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio! I am a data science graduate with a stro
 ### 2. (NEW!) Economic Impact Analysis via Spatial Data
 - **Objective**: Predict Gross domestic product (GDP) per capita based on key economic factors.
 - **Tools**: Python, GeoPandas, AI/ML, Random Forest
-- **Outcome**: The K-Means AI model effectively captured key economic trends, and Random Forest model acheived a MSE of **1.62**, suggesting an accurate fit even after scaling. Tourism receipts were found to have the highest impact on GDP, while the unemployment rate had the lowest correlation to GDP per capita. 
+- **Outcome**: The K-Means model effectively captured key economic trends, and Random Forest model acheived a MSE of **1.62**, suggesting an accurate fit even after scaling. Tourism receipts were found to have the highest impact on GDP, while the unemployment rate had the lowest correlation to GDP per capita. 
 
 ### 3. Salifort Motors Employee Churn Prediction
 - **Objective**: Predict employee turnover and recommend retention strategies.
