@@ -120,5 +120,9 @@ The dataset contains various features related to each transaction:
    pip install pandas scikit-learn matplotlib seaborn
 
 ## Visualizations
-![Important Features](./visualizations/Important_Features.png)
-![Correlation](./visualizations/correlation_fa.png)
+![Number of Approvals and Rejections by Metric](https://github.com/user-attachments/assets/95debedd-c451-4a0a-8d05-a9994126391a)
+![Fraud vs Non-Fraud Transactions](https://github.com/user-attachments/assets/80b35a33-01ce-42c7-a187-63138874272e)
+![download](https://github.com/user-attachments/assets/b389748a-e431-43b0-8ba5-a2bca672315c)
+![Distribution of Fraud Scores](https://github.com/user-attachments/assets/75e6918a-b11c-4c03-a38d-808d18c9b203)
+![Correlation Matrix](https://github.com/user-attachments/assets/cafad94c-2318-488b-bdea-c5af5ea73e98)
+
