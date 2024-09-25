@@ -88,7 +88,7 @@ The dataset contains various features related to each transaction:
 
 4. **Correlation**:
    - **Transaction proximity** had the highest correlation with fraud, indicating that transactions farther from the cardholder’s home or previous location were more likely to be fraudulent.
-   - **Used chip, used pin number, and online order** had the lowest correlation, suggesting that these security features alone did not strongly indicate fraud.
+   - Security measures such as **Used Chip** and **PIN numbers** were least likely to be fraudulentp, indicating that such security measures are protective against card fraud.
 
 ## Results
 
