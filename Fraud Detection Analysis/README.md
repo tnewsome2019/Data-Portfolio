@@ -104,7 +104,7 @@ The dataset contains various features related to each transaction:
 
 3. **Fraud Insights**:
    - High fraud detection rates were achieved by focusing on **proximity**, with transactions occurring farther from home being more likely to be fraudulent.
-   - Security measures such as **chip usage** and **PIN numbers** had minimal impact on predicting fraud.
+   - Security measures such as **chip usage** and **PIN numbers** were least likely to be fraudulentp, indicating that such security measures are protective against card fraud.
 
 ## Lessons Learned
 
