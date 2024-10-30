@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! I am a data science graduate with a stro
 ## Project Highlights
 
 
-### 1. (NEW!) MyCare: Self-Care and Sustainability Tracker
+### 1. (NEW!) MyCare: Self-Care and Sustainability Tracker (Technica 2024)
 - **Objective**: Encourage self-care and personal growth while promoting environmental sustainability.
 - **Tools**: Python, Google Sheets API, TextBlob
 - **Outcome**: Developed a dynamic journaling and activity logging application that helps users track wellness, mindfulness, and eco-friendly habits. Includes sentiment analysis on journal entries, CO2 impact tracking, and motivational reminders based on user activity. Real-time user progress can be viewed, and weekly summaries visualize metrics such as hydration, mood, and sustainable habits.
