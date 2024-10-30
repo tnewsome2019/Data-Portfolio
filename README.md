@@ -9,27 +9,33 @@ Welcome to my data analytics portfolio! I am a data science graduate with a stro
 
 ## Project Highlights
 
-### 1. (NEW!) Credit Card Fraud Detection Analysis
+
+### 1. (NEW!) MyCare: Self-Care and Sustainability Tracker
+- **Objective**: Encourage self-care and personal growth while promoting environmental sustainability.
+- **Tools**: Python, Google Sheets API, TextBlob
+- **Outcome**: Developed a dynamic journaling and activity logging application that helps users track wellness, mindfulness, and eco-friendly habits. Includes sentiment analysis on journal entries, CO2 impact tracking, and motivational reminders based on user activity. Real-time user progress can be viewed, and weekly summaries visualize metrics such as hydration, mood, and sustainable habits.
+
+### 2. (NEW!) Credit Card Fraud Detection Analysis
 - **Objective**: Detect fraudulent transactions based on transaction patterns and behaviors.
 - **Tools**: Python, Scikit-learn (Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors)
 - **Outcome**: Achieved 99.69% accuracy using feature engineering techniques, with transaction proximity having the highest correlation to fraud.
 
-### 2. (NEW!) Economic Impact Analysis via Spatial Data
+### 3. (NEW!) Economic Impact Analysis via Spatial Data
 - **Objective**: Predict Gross domestic product (GDP) per capita based on key economic factors.
 - **Tools**: Python, GeoPandas, AI/ML, Random Forest
 - **Outcome**: The K-Means model effectively captured key economic trends, and Random Forest model acheived a MSE of **1.62**, suggesting an accurate fit even after scaling. Tourism receipts were found to have the highest impact on GDP, while the unemployment rate had the lowest correlation to GDP per capita. 
 
-### 3. Salifort Motors Employee Churn Prediction
+### 4. Salifort Motors Employee Churn Prediction
 - **Objective**: Predict employee turnover and recommend retention strategies.
 - **Tools**: Python, Machine Learning
 - **Outcome**: Achieved 96% accuracy, providing actionable insights for HR.
 
-### 4. UK Online Retail Data Analysis
+### 5. UK Online Retail Data Analysis
 - **Objective**: Analyze customer retention and sales trends.
 - **Tools**: SQL, Tableau
 - **Outcome**: Identified a 37% customer retention rate, visualized KPIs in a comprehensive dashboard.
 
-### 5. CBSA Real Estate Analysis
+### 6. CBSA Real Estate Analysis
 - **Objective**: Analyze occupancy trends to inform market strategies.
 - **Tools**: Excel, PivotTables
 - **Outcome**: Revealed 80.3% occupancy in top-performing properties.
